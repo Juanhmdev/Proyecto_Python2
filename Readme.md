@@ -40,7 +40,7 @@ Tiempo total registrado: 600 min
 
 Evaluación general del día: ACEPTABLE
 Recomendación: Intenta reducir al menos 30 min de distracciones.
-==================================
+
 🧰 Requisitos técnicos:
 - Uso de listas para almacenar nombre, tipo y duración de actividades.
 - Uso de condicionales para clasificación.
