@@ -28,19 +28,6 @@ El programa debe permitir ingresar n actividades del día, una por una:
 * 🟡 Aceptable → Si prozuctivo > 45% y distracción < 30%
 * 🔴 Mal gestionado → Si distracción > 30% o productivo < 45%
 
-📋 3. Salida esperada:
-
-======= RESUMEN DE TU DÍA =======
-Total de actividades: 6
-Tiempo total registrado: 600 min
-
-→ Productivo   : 360 min (60.0%)
-→ Descanso     : 90 min (15.0%)
-→ Distracción  : 150 min (25.0%)
-
-Evaluación general del día: ACEPTABLE
-Recomendación: Intenta reducir al menos 30 min de distracciones.
-
 🧰 Requisitos técnicos:
 - Uso de listas para almacenar nombre, tipo y duración de actividades.
 - Uso de condicionales para clasificación.
